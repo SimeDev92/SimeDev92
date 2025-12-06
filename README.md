@@ -20,7 +20,7 @@ DevOps/Tools: Docker, Git, CI/CD basics, and deployment in cloud environments.
 💬 Ask me about: Full Stack Development, Docker, SaaS architecture, Seo, and performance.
 
 ## My Portfolio
-🌐 https://simeonparis.com
+🌐 https://simeonparis.com  
 📫 Contact me: contacto@simeonparis.com
 
 I’m always full of ideas (sometimes too many).
