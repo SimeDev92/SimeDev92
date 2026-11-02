@@ -1,30 +1,33 @@
+# Hey, I'm Simeón! 👋
 
-Hi there 👋
+**Web Developer | Backend & Full Stack**
 
-I'm Simeón París, Web Developer
+I enjoy solving problems, writing clean code, and turning ideas into real projects.
 
-Experience in web application development, with a track record in Tech companies.
+I worked as a Full Stack Developer, mainly focused on backend development. Since then, I've been building and maintaining my own projects and websites for clients, from the first line of code to production.
 
-Frontend: Angular, Angular SSR, HTML, CSS, JavaScript, Bootstrap, and Tailwind.
-Backend: Node.js, ExpressJs, and NestJS.
-Databases: PostgreSQL, MongoDB, MySQL.
-DevOps/Tools: Docker, Git, CI/CD basics, and deployment in cloud environments.
-🌱 Currently focused on creating my own projects and exploring new opportunities.
+### 🛠️ My Tech Stack
 
-🔍 Always searching for best programming practices, clean architectures, and emerging technologies to build solutions.
+- **Frontend:** Angular, Angular SSR, TypeScript, Astro, Tailwind CSS
+- **Backend:** Node.js, NestJS, Express.js, REST APIs
+- **Databases:** PostgreSQL, MongoDB, MySQL, Prisma, TypeORM
+- **Tools:** Docker, Git, Swagger, Jest, cloud deployments
+- **Also into:** Technical SEO, web performance, Core Web Vitals
 
-🤝 Open to collaborations on challenging projects and connecting with other professionals to share knowledge and continuously learn.
+### 🌱 What I'm Up To
 
-💡 My career combines technical experience with skills in sales, marketing, and team management, providing a comprehensive perspective on the product lifecycle.
+- Improving my backend skills and exploring better ways to structure and test applications.
+- Building projects that solve real problems.
+- Looking for my next opportunity as a **Web Developer**, preferably in a backend or full stack team.
 
-💬 Ask me about: Full Stack Development, Docker, SaaS architecture, Seo, and performance.
+### 🤝 Let's Connect
 
-## My Portfolio
-🌐 https://simeonparis.com  
-📫 Contact me: contacto@simeonparis.com
+🌐 **Portfolio:** [simeonparis.com](https://simeonparis.com)
 
-I’m always full of ideas (sometimes too many).
-Time flies when I’m at the computer, and every day a new project pops into my head.
-Does it happen to you too? 😄
+📫 **Email:** contacto@simeonparis.com
 
-Do you want to build something together?
+💡 I usually have more ideas than time to build them.
+
+One minute I'm fixing a bug, the next I'm planning another project.
+
+Sound familiar? 😄
